@@ -27,6 +27,35 @@ background-color: yellow;
 }
 
 .tabella{
-font-size: 20px;
+width:100%;
 }
 
+.riga{
+text-align: left;
+border-collapse:collapse;
+background-color: #7CD9DE;
+width: 20%;
+}
+
+.footer{
+color: grey;
+font-size: 18px;
+}
+
+.immagine1{
+background-image: url(images/monitor.jpg);
+width: 30%;
+height: 200px;
+background-repeat: no-repeat;
+font-size: 30px;
+color:white
+}
+
+.immagine2{
+    background-image: url(images/graph.jpg);
+    width: 30%;
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    color:white
+}
