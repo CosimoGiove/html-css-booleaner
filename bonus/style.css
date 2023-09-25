@@ -1,0 +1,86 @@
+header{
+    background-image: url(images/pattern.png);
+    width: 100%;
+    height: 200px;
+    background-color: #7CD9DE
+    }
+
+    body{
+    text-align: center;
+    }
+    .foto1{
+    border: 3px solid red;
+    }
+    
+    .logo{
+    width: 300px;
+    height: 300px;
+    }
+    
+    .booleaner{
+    color: #0BBDC6;
+    }
+    
+    .scritta{
+    color: grey;
+    }
+    
+    #prima-sezione{
+    font-size: 20px;
+    background-color: beige;
+    border: 2px solid black;
+    }
+    
+    .lorem{
+    background-color: yellow;
+    }
+    
+    .tabella{
+    width:100%;
+    }
+
+    .sezione{
+    background-color: bisque;
+    border: 1px solid red;
+    }
+    
+    .riga{
+    text-align: left;
+    border-collapse:collapse;
+    background-color: #7CD9DE;
+    width: 20%;
+    }
+    
+    .footer{
+    color: grey;
+    font-size: 18px;
+    }
+    
+    .immagine1{
+    background-image: url(images/monitor.jpg);
+    width: 30%;
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    color:white;
+    border: 2px solid gold;
+    background-position: center;
+    background-size: cover;
+    }
+    
+    .immagine2{
+        background-image: url(images/graph.jpg);
+        width: 30%;
+        height: 200px;
+        background-repeat: no-repeat;
+        font-size: 30px;
+        color:white;
+        border: 2px solid gold;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .loremipsum{
+    background-color: rgb(220, 153, 53);
+    border: 2px solid grey;
+    }
